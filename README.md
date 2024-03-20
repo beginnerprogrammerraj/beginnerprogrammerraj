@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Html ,css, javascript and react and php**
 
-- 👯 I’m looking to collaborate on **LinkedIn**
+
 
 - 👨‍💻 All of my projects are available at [Beginnerprogrammerraj](Beginnerprogrammerraj)
 
