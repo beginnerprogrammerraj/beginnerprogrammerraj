@@ -8,7 +8,7 @@ h1 align="center">I am currently looking a job /internship</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beginnerprogrammerraj" alt="beginnerprogrammerraj" /></a> </p>
 
-- 🔭 I’m currently working on **Music app**
+- 🔭 I’m currently looking a job /internship
 
 - 🌱 I’m currently learning **Html ,css, javascript and react and php**
 
